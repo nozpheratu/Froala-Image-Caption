@@ -1,0 +1,25 @@
+{
+  "name": "Froala-Image-Caption",
+  "version": "1.0.0",
+  "description": "An image caption plugin for the Froala WYSIWYG editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Streetwise-Media/Froala-Image-Caption.git"
+  },
+  "keywords": [
+    "froala",
+    "image",
+    "caption",
+    "plugin"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Streetwise-Media/Froala-Image-Caption/issues"
+  },
+  "homepage": "https://github.com/Streetwise-Media/Froala-Image-Caption"
+}
